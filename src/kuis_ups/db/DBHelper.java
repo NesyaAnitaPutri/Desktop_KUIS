@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 public class DBHelper {
 
     public static final String USER = "root";
-    public static final String DB = "kuis_ups";
+    public static final String DB = "kuis_desktop";
     public static final String MyConn = "jdbc:mysql://localhost/" + DB
             + "?user=" + USER;
 
